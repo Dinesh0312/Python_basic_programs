@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f3cfa23-6e30-4048-a4f3-af97a36f480c" name="Changes" comment="List programs 2">
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+    <list default="true" id="2f3cfa23-6e30-4048-a4f3-af97a36f480c" name="Changes" comment="largest number">
+      <change afterPath="$PROJECT_DIR$/List_programs/Python Program to print duplicates from a list of integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_programs/Python program to find second largest number in a list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,16 +44,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Python program to find smallest number in a list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Python program to interchange first and last elements in a list.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Python Program to print duplicates from a list of integers.executor": "Run",
+    "Python.Python program to find second largest number in a list.executor": "Run",
+    "Python.Python program to find smallest number in a list.executor": "Run",
+    "Python.Python program to interchange first and last elements in a list.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.Python program to find smallest number in a list">
+}]]></component>
+  <component name="RunManager" selected="Python.Python Program to print duplicates from a list of integers">
+    <configuration name="Python Program to print duplicates from a list of integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_programs/Python Program to print duplicates from a list of integers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python program to find second largest number in a list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_programs/Python program to find second largest number in a list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python program to find smallest number in a list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -99,6 +146,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Python Program to print duplicates from a list of integers" />
+        <item itemvalue="Python.Python program to find second largest number in a list" />
         <item itemvalue="Python.Python program to find smallest number in a list" />
         <item itemvalue="Python.Python program to interchange first and last elements in a list" />
       </list>
@@ -147,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722008159820</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="largest number">
+      <option name="closed" value="true" />
+      <created>1722011680721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722011680721</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +251,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="List programs" />
     <MESSAGE value="List programs 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="List programs 2" />
+    <MESSAGE value="largest number" />
+    <option name="LAST_COMMIT_MESSAGE" value="largest number" />
   </component>
 </project>
