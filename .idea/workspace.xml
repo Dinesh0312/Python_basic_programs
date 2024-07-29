@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f3cfa23-6e30-4048-a4f3-af97a36f480c" name="Changes" comment="largest number">
-      <change afterPath="$PROJECT_DIR$/List_programs/Python program to convert two list in dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List_programs/Python Program to Find Largest Number in a List.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_programs/Python program to Find Largest Number in a List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_programs/Find words which are greater than given length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_programs/How to Remove Letters From a String in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_programs/Python program to check if a string has at least one letter and one number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_programs/Python program to check whether the string is Symmetrical or Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_programs/Python program to find uncommon words from two Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_programs/Remove All Duplicates from a Given String in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_programs/Reverse Words in a Given String in Python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,18 +51,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Find words which are greater than given length.executor": "Run",
+    "Python.How to Remove Letters From a String in Python.executor": "Run",
     "Python.Python Program to print duplicates from a list of integers.executor": "Run",
+    "Python.Python program to check if a string has at least one letter and one number.executor": "Run",
+    "Python.Python program to check whether the string is Symmetrical or Palindrome.executor": "Run",
     "Python.Python program to convert two list in dict.executor": "Run",
     "Python.Python program to find second largest number in a list.executor": "Run",
     "Python.Python program to find smallest number in a list.executor": "Run",
+    "Python.Python program to find uncommon words from two Strings.executor": "Run",
     "Python.Python program to interchange first and last elements in a list.executor": "Run",
+    "Python.Remove All Duplicates from a Given String in Python.executor": "Run",
+    "Python.Reverse Words in a Given String in Python.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Python program to convert two list in dict">
-    <configuration name="Python Program to print duplicates from a list of integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Python program to check if a string has at least one letter and one number">
+    <configuration name="Find words which are greater than given length" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_programs/Python Program to print duplicates from a list of integers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_programs/Find words which are greater than given length.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python program to convert two list in dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="How to Remove Letters From a String in Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_programs/Python program to convert two list in dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_programs/How to Remove Letters From a String in Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python program to find second largest number in a list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python program to check if a string has at least one letter and one number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_programs/Python program to find second largest number in a list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_programs/Python program to check if a string has at least one letter and one number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python program to find smallest number in a list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python program to find uncommon words from two Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_programs/Python program to find smallest number in a list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_programs/Python program to find uncommon words from two Strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python program to interchange first and last elements in a list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Remove All Duplicates from a Given String in Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List_programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List_programs/Python program to interchange first and last elements in a list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String_programs/Remove All Duplicates from a Given String in Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Python program to convert two list in dict" />
-        <item itemvalue="Python.Python Program to print duplicates from a list of integers" />
-        <item itemvalue="Python.Python program to find second largest number in a list" />
-        <item itemvalue="Python.Python program to find smallest number in a list" />
-        <item itemvalue="Python.Python program to interchange first and last elements in a list" />
+        <item itemvalue="Python.Python program to check if a string has at least one letter and one number" />
+        <item itemvalue="Python.Find words which are greater than given length" />
+        <item itemvalue="Python.Python program to find uncommon words from two Strings" />
+        <item itemvalue="Python.Remove All Duplicates from a Given String in Python" />
+        <item itemvalue="Python.How to Remove Letters From a String in Python" />
       </list>
     </recent_temporary>
   </component>
